@@ -1,0 +1,53 @@
+Curso:
+https://www.udemy.com/course/curso-la-biblia-perdida-de-bootstrap-4/
+
+Instructor:
+https://www.udemy.com/user/erickmines/
+
+>>>> Seccion
+<<<< Capitulo
+.... Recursos
+---- Enlaces
+
+Fuente de los archivos Bootstrap de la version del curso
+https://getbootstrap.com/docs/4.6/getting-started/download/
+https://getbootstrap.com/docs/4.6/getting-started/introduction/
+
+Fuente carpeta js/
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+
+https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js
+https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js
+https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js
+
+curl -s https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js >> jquery-3.3.1.min.js
+
+curl -s https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js >> popper.min.js
+
+curl -s https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js >> bootstrap.min.js 
+
+Mirror css/ js/
+https://www.dropbox.com/sh/gds7twaax3z11qa/AADWFMtFzFctj5m1MZOKgkDta?dl=0
+
+>>>> Seccion 1 "Introduccion a bootstrap 4"
+<<<< Capitulo 1 ""
+<<<< Capitulo 2 ""
+<<<< Capitulo 3 ""
+<<<< Capitulo 4 ""
+<<<< Capitulo 5 ""
+
+
+<<<< Capitulo 6 ""
+<<<< Capitulo 7 ""
+<<<< Capitulo 8 ""
+<<<< Capitulo 9 ""
+<<<< Capitulo 10 ""
+<<<< Capitulo 11 "Insertando estilos CSS personalizados"
+
+estilos.scss
+
+<<<< Capitulo 12 ""
+
+
